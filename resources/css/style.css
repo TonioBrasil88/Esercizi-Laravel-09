@@ -1,0 +1,36 @@
+.nav_img{
+    background-image: url(../../public/navimage/behind_tabs.jpg);
+    background-size: cover;
+    /* -webkit-animation-direction: reverse; */
+}
+
+.nav-link{
+    color: #008b92;
+}
+
+.nav-link:hover{
+    color: #45abeb;
+}
+
+.navbar-brand{
+    color: #45abeb;
+    font-weight: bold;
+}
+
+.navbar-brand:hover{
+    color: #45abeb;
+}
+
+.img-fluid{
+    height: 750px;
+    width: 790px;
+}
+
+.card-img-top{
+    height: 429px;
+    width: 286px;
+}
+
+.logout_btn{
+    color: #45abeb;
+}
